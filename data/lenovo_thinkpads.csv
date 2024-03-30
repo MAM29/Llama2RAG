@@ -1,0 +1,149 @@
+Name,CPU name,CPU cores,GPU,RAM,Storage,Motherboard Name,PSU,Fans,Heatsinks,USB/USB-C ports,HDMI ports,Ethernet ports,Display size,NIC,Optical Drive,Audio port,Keyboard,Mouse,Webcam,Wifi card,Bluetooth card,BIOS/UEFI,Carbon Footprint (kg)
+ThinkPad C14 Gen 1 Chromebook,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,4GB,64GB,Intel SoC,45W,N/A,N/A,2,1,N/A,"14""","WLAN + Bluetooth® [1]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,ChromeOS,210
+ThinkPad E14 Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,40GB,256GB,AMD SoC,N/A,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Windows® 11 DG Windows 10 Pro 64 [1],391
+ThinkPad E14 Gen 4 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,32GB,256GB,Intel SoC,65W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Ubuntu Linux [1],415
+ThinkPad E14 Gen 5 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,40GB,128GB,AMD SoC,65W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Windows® 11 DG Windows 10 Pro 64 [1],N/A
+ThinkPad E14 Gen 5 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,40GB,128GB,Intel SoC,65W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Ubuntu Linux [1],N/A
+ThinkPad E15 Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,40GB,256GB,AMD SoC,65W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Windows® 11 DG Windows 10 Pro 64 [1],457
+ThinkPad E15 Gen 4 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,32GB,256GB,Intel SoC,65W,N/A,N/A,1,1,1,"15.6""","WLAN + Bluetooth® **[1]
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Ubuntu Linux [1],457
+ThinkPad E16 Gen 1 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,40GB,256GB,AMD SoC,65W,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Windows® 11 DG Windows 10 Pro 64 [1],N/A
+ThinkPad E16 Gen 1 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,40GB,256GB,Intel SoC,65W,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **
+Wi-Fi® 6, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6,Bluetooth 5.1,Ubuntu Linux [1],N/A
+ThinkPad L13 Gen 3 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2][3]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Ubuntu Linux [1],323
+ThinkPad L13 Gen 3 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Ubuntu Linux [1],187
+ThinkPad L13 Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® [2]
+AMD Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Ubuntu Linux [1],N/A
+ThinkPad L13 Gen 4 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.2,Ubuntu Linux [1],N/A
+ThinkPad L13 Yoga Gen 3 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2][3]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Ubuntu Linux [1],323
+ThinkPad L13 Yoga Gen 3 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Ubuntu Linux [1],294
+ThinkPad L13 Yoga Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® [2]
+AMD Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Ubuntu Linux [1],N/A
+ThinkPad L13 Yoga Gen 4 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.2,Ubuntu Linux [1],N/A
+ThinkPad L14 Gen 3 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,64GB,128GB,AMD SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E QCNFA765, 802.11ax Dual Band 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],425
+ThinkPad L14 Gen 3 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],215
+ThinkPad L14 Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,AMD SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth®
+AMD Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad L14 Gen 4 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,Intel SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.2,Linux [1],N/A
+ThinkPad L15 Gen 3 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,64GB,128GB,AMD SoC,N/A,N/A,N/A,1,1,1,"15.6""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E QCNFA765, 802.11ax Dual Band 2x2 Wi-Fi",N/A,1,N/A,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],236
+ThinkPad L15 Gen 3 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,Intel SoC,45W,N/A,N/A,1,1,1,"15.6""","WLAN + Bluetooth® **[1]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],339
+ThinkPad L15 Gen 4 AMD,N/A,N/A,AMD Radeon Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,AMD SoC,45W,N/A,N/A,1,1,1,"15.6""","WLAN + Bluetooth®
+AMD Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad L15 Gen 4 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared Share CPU TDP DirectX,64GB,256GB,Intel SoC,45W,N/A,N/A,1,1,1,"15.6""","WLAN + Bluetooth® **
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.2,Linux [1],N/A
+ThinkPad P14s Gen 3 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared Share CPU TDP DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth®
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux,222
+ThinkPad P14s Gen 3 Intel,Core i5-1240,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,65W,N/A,N/A,2,1,1,"14""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,"Red Hat Enterprise Linux 8.6 (certified only, for detailed and latest information, please visit",246
+ThinkPad P14s Gen 4 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared Share CPU TDP DirectX,16GB,256GB,AMD SoC,45W,N/A,N/A,2,1,1,"14""","WLAN + Bluetooth® **
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux,N/A
+ThinkPad P14s Gen 4 Intel,Core i5-1340,N/A,Intel Iris Xe Graphics,16GB,256GB,Intel SoC,65W,N/A,N/A,2,1,1,"14""","WLAN + Bluetooth® **
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,"Red Hat Enterprise Linux 9.1 (certified only, for detailed and latest information, please visit",N/A
+ThinkPad P15v Gen 3 AMD,N/A,N/A,NVIDIA,64GB,256GB,AMD SoC,N/A,N/A,N/A,2,1,1,"15.6""","WLAN + Bluetooth®
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,HD 720p,N/A,Bluetooth 5.1,"Red Hat Enterprise Linux 8.6 (certified only, for detailed and latest information, please visit",411
+ThinkPad P15v Gen 3 Intel,N/A,N/A,Intel Iris Xe Graphics,64GB,256GB,Intel SoC,N/A,N/A,N/A,2,1,1,"15.6""","WLAN + Bluetooth® [1]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,HD 720p,N/A,Bluetooth 5.1,N/A,345
+ThinkPad P16s Gen 1 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared Share CPU TDP DirectX,16GB,256GB,AMD SoC,65W,N/A,N/A,2,1,1,"16""","WLAN + Bluetooth® **
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,N/A,283
+ThinkPad P16s Gen 1 Intel,Core i5-1240,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,65W,N/A,N/A,2,1,1,"16""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,"Red Hat Enterprise Linux 8.6 (certified only, for detailed and latest information, please visit",258
+ThinkPad P16s Gen 2 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared Share CPU TDP DirectX,16GB,256GB,AMD SoC,65W,N/A,N/A,2,1,1,"16""","WLAN + Bluetooth® **
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux,N/A
+ThinkPad P16s Gen 2 Intel,Core i5-1340,N/A,Intel Iris Xe Graphics,16GB,256GB,Intel SoC,65W,N/A,N/A,2,1,1,"16""","WLAN + Bluetooth® **
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,"Red Hat Enterprise Linux 9.1 (certified only, for detailed and latest information, please visit",N/A
+ThinkPad P16v Gen 1 AMD,N/A,N/A,AMD Radeon,64GB,256GB,AMD SoC,135W,N/A,N/A,2,1,N/A,"16""","WLAN + Bluetooth®
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,"Red Hat Enterprise Linux 9.2 (certified only, for detailed and latest information, please visit",N/A
+ThinkPad P16v Gen 1 Intel,Core i5-13500,N/A,Intel Iris,96GB,256GB,Intel SoC,135W,N/A,N/A,2,1,N/A,"16""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,"Red Hat Enterprise Linux 9.2 (certified only, for detailed and latest information, please visit",N/A
+ThinkPad P16 Gen 1,N/A,N/A,Intel UHD Graphics Integrated SharedShare CPU,128GB,256GB,N/A,170W,N/A,N/A,2,1,N/A,"16""","WLAN + Bluetooth® [1]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,N/A,Bluetooth 5.1,Fedora Linux,339
+ThinkPad P16 Gen 2,N/A,N/A,Intel UHD Graphics Integrated SharedShare,128GB,256GB,N/A,170W,N/A,N/A,1,1,N/A,"16""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux,N/A
+ThinkPad P1 Gen 5,N/A,N/A,Intel Iris Xe Graphics,64GB,256GB,Intel SoC,135W,N/A,N/A,2,1,N/A,"16""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,N/A,Bluetooth 5.1,N/A,312
+ThinkPad P1 Gen 6,Core i7-13700,N/A,NVIDIA,96GB,256GB,Intel SoC,170W,N/A,N/A,2,1,N/A,"16""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux,N/A
+ThinkPad T14s Gen 3 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth® **[2]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],344
+ThinkPad T14s Gen 3 Intel,Core i5-1235,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],360
+ThinkPad T14s Gen 4 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared DirectX,16GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth® **[2]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad T14s Gen 4 Intel,Core i5-1335,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,16GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth®ThinkPad T14s Gen 4 (Intel)PSREF
+Product Specifications
+Reference
+5 of 10 ThinkPad T14s Gen 4 (Intel) - December 29 2023Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad T14 Gen 3 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],218
+ThinkPad T14 Gen 3 Intel,Core i5-1235,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],208
+ThinkPad T14 Gen 4 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad T14 Gen 4 Intel,Core i5-1335,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,45W,N/A,N/A,1,1,1,"14""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad T15p Gen 3,Core i7-12700,N/A,NVIDIA,64GB,256GB,Intel SoC,N/A,N/A,N/A,2,1,1,"15.6""","WLAN + Bluetooth® [1]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,HD 720p,N/A,Bluetooth 5.1,N/A,272
+ThinkPad T16 Gen 1 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,8GB,256GB,AMD SoC,65W,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **[1]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],233
+ThinkPad T16 Gen 1 Intel,Core i5-1235,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],231
+ThinkPad T16 Gen 2 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared DirectX,8GB,256GB,AMD SoC,65W,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **[1]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad T16 Gen 2 Intel,Core i5-1335,N/A,Intel Iris Xe Graphics,40GB,256GB,Intel SoC,45W,N/A,N/A,1,1,1,"16""","WLAN + Bluetooth® **[1]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad X13s Gen 1,N/A,N/A,Qualcomm Adreno 690 GPU Integrated Shared DirectX,8GB,256GB,Qualcomm SoC,45W,N/A,N/A,2,N/A,N/A,"13.3""","WLAN + Bluetooth® [2]
+Qualcomm Wi-Fi® 6E WCN6855, 802.11ax Dual Band 2x2 Wi-Fi",N/A,1,Yes,touchpad,N/A,Wi-Fi 6E,Bluetooth 5.1,Windows® 11 Home (on ARM),191
+ThinkPad X13 Gen 3 AMD,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,8GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],197
+ThinkPad X13 Gen 3 Intel,Core i3-1215,N/A,Intel UHD Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],210
+ThinkPad X13 Gen 4 AMD,N/A,N/A,AMD Radeon 740M Integrated Shared DirectX,16GB,256GB,AMD SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® **[2]
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad X13 Gen 4 Intel,Core i3-1315,N/A,Intel UHD Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad X13 Yoga Gen 3,Core i5-1235,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],193
+ThinkPad X13 Yoga Gen 4,Core i5-1335,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"13.3""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad X1 Carbon Gen 10,Core i5-1235,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth® **[2]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Fedora Linux [1],209
+ThinkPad X1 Carbon Gen 11,Core i5-1335,N/A,Intel Iris Xe Graphics Integrated Shared Share CPU TDP DirectX,16GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux [1],N/A
+ThinkPad X1 Extreme Gen 5,N/A,N/A,NVIDIA,64GB,256GB,Intel SoC,170W,N/A,N/A,1,1,N/A,"16""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],314
+ThinkPad X1 Fold 16 Gen 1,Core i5-1230,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,8GB,256GB,Intel SoC,65W,N/A,N/A,1,N/A,N/A,"13.3""","WLAN + Bluetooth [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,N/A,Yes,N/A,N/A,Wi-Fi 6E,Bluetooth TrackPoint,Windows® 11 Home,154
+ThinkPad X1 Nano Gen 2,Core i5-1240,N/A,Intel Iris Xe Graphics Integrated Shared Share CPU TDP DirectX,16GB,256GB,Intel SoC,65W,N/A,N/A,N/A,N/A,N/A,"13""","WLAN + Bluetooth® [2]
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],217
+ThinkPad X1 Nano Gen 3,Core i5-1340,N/A,Intel Iris Xe Graphics Integrated Shared DirectX,16GB,256GB,Intel SoC,45W,N/A,N/A,N/A,N/A,N/A,"13""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Windows® 10 IoT Enterprise LTSC 2021 [1],N/A
+ThinkPad X1 Yoga Gen 7,Core i5-1235,N/A,Intel Iris Xe Graphics Integrated Shared Share CPU TDP DirectX,8GB,256GB,Intel SoC,N/A,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth® **[2]
+Intel Wi-Fi® 6 AX201, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Linux [1],416
+ThinkPad X1 Yoga Gen 8,Core i5-1335,N/A,Intel Iris Xe Graphics Integrated Shared Share CPU TDP DirectX,16GB,256GB,Intel SoC,45W,N/A,N/A,1,1,N/A,"14""","WLAN + Bluetooth®
+Intel Wi-Fi® 6E AX211, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,touchpad,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Linux [1],N/A
+ThinkPad Z13 Gen 1,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,16GB,256GB,AMD SoC,65W,N/A,N/A,2,N/A,N/A,"13.3""","WLAN + Bluetooth® [2]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Fedora Linux [1],216
+ThinkPad Z13 Gen 2,N/A,N/A,AMD Radeon 740M Integrated Shared DirectX,16GB,256GB,AMD SoC,65W,N/A,N/A,2,N/A,N/A,"13.3""","WLAN + Bluetooth®
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux [1],N/A
+ThinkPad Z16 Gen 1,N/A,N/A,AMD Radeon 660M Integrated Shared DirectX,16GB,256GB,AMD SoC,N/A,N/A,N/A,1,N/A,N/A,"16""","WLAN + Bluetooth® [2]
+Qualcomm® Wi-Fi® 6E NFA725A, 802.11ax 2x2 Wi-Fi",N/A,1,N/A,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.1,Fedora Linux [1],245
+ThinkPad Z16 Gen 2,N/A,N/A,AMD Radeon 760M Integrated Shared DirectX,16GB,512GB,AMD SoC,N/A,N/A,N/A,1,N/A,N/A,"16""","WLAN + Bluetooth®
+MediaTek Wi-Fi® 6E RZ616, 802.11ax 2x2 Wi-Fi",N/A,1,Yes,N/A,FHD 1080p,Wi-Fi 6E,Bluetooth 5.3,Fedora Linux [1],N/A
